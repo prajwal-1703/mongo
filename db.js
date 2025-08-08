@@ -14,6 +14,3 @@ const todo = new schema({
     done: Boolean,
     userId: ObjectId
 })
-
-
-/* hello this is comment */
